@@ -1,2 +1,2 @@
 # SQL_Project
-It is the project of finding the best team for ipl like top 10 batsmen, bowlers, average players, hard-hitting players.
+ Cricket data where I find top 10 batter, bowlers, etc using SQL queries, aggregate functions, some clauses and some statements like limit
